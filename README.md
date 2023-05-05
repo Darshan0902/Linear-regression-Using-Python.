@@ -12,11 +12,11 @@ Linear regression algorithm shows a linear relationship between a dependent (y) 
 
 Here,
 
-Y= Dependent Variable (Target Variable)
-X= Independent Variable (predictor Variable)
-a0= intercept of the line (Gives an additional degree of freedom)
-a1 = Linear regression coefficient (scale factor to each input value).
-ε = random error
+Y= Dependent Variable (Target Variable)<br>
+X= Independent Variable (predictor Variable)<br> 
+a0= intercept of the line (Gives an additional degree of freedom)<br>
+a1 = Linear regression coefficient (scale factor to each input value).<br>
+ε = random error<br>
 
 The values for x and y variables are training datasets for Linear Regression model representation.
 
